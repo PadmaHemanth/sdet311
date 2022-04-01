@@ -1,0 +1,6 @@
+class demo
+{
+
+System.out.println("command line");
+
+}
